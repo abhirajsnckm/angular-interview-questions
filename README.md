@@ -306,7 +306,7 @@ You can download the PDF and Epub version of this repository from the latest run
 |270| [What is host property in css?](#what-is-host-property-in-css)|
 |271| [How do you get the current route?](#how-do-you-get-the-current-route)|
 |272| [What is Component Test Harnesses?](#what-is-component-test-harnesses)|
-|273| [What is the benefit of Automatic Inlining of Fonts?](#what-is-the-benefit-of-automatic-inlining-of-fonts)|
+
 |274| [](#)|
 |275| [](#)|
 |276| [](#)|
